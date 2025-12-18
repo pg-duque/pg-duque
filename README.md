@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 ¡Hola! ¡Soy Pablo!
 
-<!--
-**pg-duque/pg-duque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Alumno de Desarrollo de Aplicaciones Multiplataforma (DAM) - Primer curso**  
+📍 Prometeo Carabanchel  – ByThePower  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+Actualmente estoy cursando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde estoy adquiriendo una base sólida en programación, desarrollo web y bases de datos entre otras.
+
+Lo que más me interesa:
+- La **POO**
+- El **desarrollo de aplicaciones**
+- La **tecnología aplicada a resolver problemas reales**
+- El **diseño y la gestión de bases de datos**
+- Seguir creciendo hacia áreas con alta proyección profesional
+- El mundo de la **ciberseguridad**
+
+Auquí recojo prácticas, ejercicios y pequeños proyectos desarrollados durante el curso.
+
+---
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+### 🔹 Lenguajes y tecnologías
+- ☕ **Java**
+- 🌐 **HTML5**
+- 🛠️ **JS**
+- 🎨 **CSS3**
+- ⚙️ **JavaScript**
+- 🗄️ **SQL**
+
+### 🔹 Conceptos trabajados
+- Programación orientada a objetos (POO)
+- Estructuras de control
+- Gestión de errores y excepciones
+- Manipulación del DOM
+- Diseño de interfaces web
+- Bases de datos relacionales
+
+---
+
+## 📚 Actualmente en el primer trimestre estamos viendo
+
+- Fundamentos de **Java**
+- Clases, objetos, métodos y constructores
+- Herencia y encapsulación
+- Desarrollo web básico (HTML + JS)
+- Introducción a CSS
+- Primeros pasos con bases de datos y SQL
+- Buenas prácticas y documentación (Javadoc)
+- Métodos de trabajo
+- Manejo de máquinas virtuales
+
+---
+
+## 📈 Objetivos
+
+- Seguir mejorando como desarrollador
+- Consolidar una buena base técnica para lanzarme al mundo laboral
+- Construir proyectos cada vez más completos a lo largo del ciclo DAM.
+
+---
+
+## 📫 Contacto
+
+📧 *pablo.garcia.duque@students.thepower.education*  
+💼 GitHub: [pg-duque](https://github.com/pg-duque)
+
+---
+
+⭐ *Perfil en evolución — en constante aprendizaje*
