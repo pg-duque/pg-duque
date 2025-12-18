@@ -18,8 +18,6 @@ Lo que más me interesa:
 - Seguir creciendo hacia áreas con alta proyección profesional
 - El mundo de la **ciberseguridad**
 
-Auquí recojo prácticas, ejercicios y pequeños proyectos desarrollados durante el curso.
-
 ---
 
 ## 🛠️ Tecnologías que estoy aprendiendo
