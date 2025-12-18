@@ -27,7 +27,7 @@ Auquí recojo prácticas, ejercicios y pequeños proyectos desarrollados durante
 ### 🔹 Lenguajes y tecnologías
 - ☕ **Java**
 - 🌐 **HTML5**
-- 🛠️ **JS**
+- 🔧 **JS**
 - 🎨 **CSS3**
 - ⚙️ **JavaScript**
 - 🗄️ **SQL**
