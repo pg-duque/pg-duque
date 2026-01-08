@@ -25,7 +25,6 @@ Lo que más me interesa:
 ### 🔹 Lenguajes y tecnologías
 - ☕ **Java**
 - 🌐 **HTML5**
-- 🔧 **JS**
 - 🎨 **CSS3**
 - ⚙️ **JavaScript**
 - 🗄️ **SQL**
